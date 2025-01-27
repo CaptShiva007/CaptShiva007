@@ -1,12 +1,12 @@
 ## whoami
 
-Hey hey! I am Shiva, just your average guy who loves cyberSecurity, coding, music, and self-defense! 
+Hey hey! I am Shiva, just your average guy who loves cyberSecurity, coding, music, mili-tech and self-defense! 
 
 ## stuff
 
 - 🔭 working on creating my own tools for ease of it.
-- 🌱 learning about cloud environment and red teaming!
-- 📫 contact me: shivahacker007@gmail.com
+- 🌱 learning about cloud environment, ICS/SCADA security and red teaming!
+- 📫 contact me: shivasepicjourney@gmail.com
 - 🌐 my website: 
 - 📦 hackthebox profile: https://app.hackthebox.com/profile/335227
 
@@ -24,4 +24,5 @@ Hey hey! I am Shiva, just your average guy who loves cyberSecurity, coding, musi
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captshiva007&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captshiva007&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captshiva007)](https://github.com/anuraghazra/)
