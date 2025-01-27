@@ -13,13 +13,13 @@ Hey hey! I am Shiva, just your average guy who loves cyberSecurity, coding, musi
 ## knowledge
 
 <p align="left">
-<a target="blank"><img align="center" src="linux.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="windows10.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="gnubash.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="powershell.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="python.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="microsoftazure.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="rust.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="linux.svg" alt="" height="50" /></a>
+<a target="blank"><img align="center" src="windows10.svg" alt="" height="50" /></a>
+<a target="blank"><img align="center" src="gnubash.svg" alt="" height="50" /></a>
+<a target="blank"><img align="center" src="powershell.svg" alt="" height="50" /></a>
+<a target="blank"><img align="center" src="python.svg" alt="" height="50" /></a>
+<a target="blank"><img align="center" src="microsoftazure.svg" alt="" height="50" /></a>
+<a target="blank"><img align="center" src="rust.svg" alt="" height="50" /></a>
 </p>
 
 
