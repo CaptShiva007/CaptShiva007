@@ -25,4 +25,4 @@ Hey hey! I am Shiva, just your average guy who loves cyberSecurity, coding, musi
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captshiva007&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captshiva007)](https://github.com/anuraghazra/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captshiva007)](https://github.com/captshiva007/)
