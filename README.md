@@ -7,7 +7,7 @@ Hey hey! I am Shiva, just your average guy who loves cyberSecurity, coding, musi
 - 🔭 working on creating my own tools for ease of it.
 - 🌱 learning about cloud environment, ICS/SCADA security and red teaming!
 - 📫 contact me: shivasepicjourney@gmail.com
-- 🌐 my website: 
+- 🌐 my website: https://captshiva007.github.io
 - 📦 hackthebox profile: https://app.hackthebox.com/profile/335227
 
 ## knowledge
