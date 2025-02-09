@@ -9,6 +9,7 @@ Hey hey! I am Shiva, just your average guy who loves cyberSecurity, coding, musi
 - 📫 contact me: shivasepicjourney@gmail.com
 - 🌐 my website: https://captshiva007.github.io
 - 📦 hackthebox profile: https://app.hackthebox.com/profile/335227
+- 💻 tryhackme profile: https://tryhackme.com/p/shivahacker007
 
 ## knowledge
 
