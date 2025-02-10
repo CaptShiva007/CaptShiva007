@@ -1,6 +1,6 @@
 ## whoami
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+hey!+I+am+Shiva;just+your+average+guy+who+loves+cyberSecurity,+coding,+music,+mili-tech+and+self-defense!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&pause=1000&color=E591F7&background=FFAAFF00&multiline=true&width=600&lines=Hey+Hey!+I'm+Shiva.;Code+name%3A+C0NQU15T4D0R)](https://git.io/typing-svg)
 
 ## stuff
 
