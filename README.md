@@ -1,6 +1,6 @@
 ## whoami
 
-Hey hey! I am Shiva, just your average guy who loves cyberSecurity, coding, music, mili-tech and self-defense! 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+hey!+I+am+Shiva;just+your+average+guy+who+loves+cyberSecurity,+coding,+music,+mili-tech+and+self-defense!)](https://git.io/typing-svg)
 
 ## stuff
 
