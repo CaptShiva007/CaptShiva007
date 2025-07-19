@@ -5,7 +5,7 @@
 ## stuff
 
 - 🔭 working on creating my own tools for ease of it.
-- 🌱 learning about cloud environment, ICS/SCADA security and red teaming!
+- 🌱 learning about cloud environment, ICS/SCADA security and red teaming as well as blue teaming!
 - 📫 contact me: shivasepicjourney@gmail.com
 - 🌐 my website: https://captshiva007.github.io
 - 📦 hackthebox profile: https://app.hackthebox.com/profile/335227
